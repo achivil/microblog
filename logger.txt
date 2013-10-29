@@ -1,0 +1,7 @@
+startup
+startup
+startup
+INFO:werkzeug: * Running on http://127.0.0.1:5000/
+INFO:werkzeug: * Restarting with reloader
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2013 17:21:04] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2013 17:21:04] "GET /login?next=%2F HTTP/1.1" 200 -
